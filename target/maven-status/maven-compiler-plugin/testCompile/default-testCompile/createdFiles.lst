@@ -1,0 +1,4 @@
+com\apiframework\apiframework\tests\testDELETEPerson.class
+com\apiframework\apiframework\tests\testPATCHPerson.class
+com\apiframework\apiframework\tests\testPOSTPerson.class
+com\apiframework\apiframework\tests\testGetPerson.class
